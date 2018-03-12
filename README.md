@@ -9,12 +9,12 @@
 
 - ### 注册登录
 
-    ![image]()
+    ![image](https://github.com/1azyday/todo/blob/master/README/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C.gif)
 
 - ### 新增todo
 
-    ![image]()
+    ![image](https://github.com/1azyday/todo/blob/master/README/%E6%96%B0%E5%A2%9E.gif)
 
-- ### 删除更新
+- ### 编辑删除
 
-    ![image]()
+    ![image](https://github.com/1azyday/todo/blob/master/README/%E7%BC%96%E8%BE%91%E5%88%A0%E9%99%A4.gif)
