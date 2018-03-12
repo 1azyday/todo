@@ -1,0 +1,97 @@
+[
+  {
+    "id": 0,
+    "session_id": "l5ljel2l2jgsdjjs",
+    "user_id": 0
+  },
+  {
+    "id": 1,
+    "session_id": "g3gg443k24lls2jk",
+    "user_id": 0
+  },
+  {
+    "id": 2,
+    "session_id": "2e2gll23dkgbjjsk",
+    "user_id": 0
+  },
+  {
+    "id": 3,
+    "session_id": "45lk52d42eg3gjd4",
+    "user_id": 0
+  },
+  {
+    "id": 4,
+    "session_id": "5kdldeklksksgjjd",
+    "user_id": 0
+  },
+  {
+    "id": 5,
+    "session_id": "2gd5lb2s4j32lgjl",
+    "user_id": 1
+  },
+  {
+    "id": 6,
+    "session_id": "lkj24rdgell5gggs",
+    "user_id": 1
+  },
+  {
+    "id": 7,
+    "session_id": "4gsjs3ek3gsdg35g",
+    "user_id": 1
+  },
+  {
+    "id": 8,
+    "session_id": "jl453ej2lr35j43b",
+    "user_id": 2
+  },
+  {
+    "id": 9,
+    "session_id": "4ee2kd2j5kk3j54g",
+    "user_id": 3
+  },
+  {
+    "id": 10,
+    "session_id": "e5g5je2g53e32232",
+    "user_id": 3
+  },
+  {
+    "id": 11,
+    "session_id": "l42lkgjb5glr3bl2",
+    "user_id": 3
+  },
+  {
+    "id": 12,
+    "session_id": "4lkg5kjsleejjglg",
+    "user_id": 4
+  },
+  {
+    "id": 13,
+    "session_id": "ejlld2s5geelesr2",
+    "user_id": 1
+  },
+  {
+    "id": 14,
+    "session_id": "2ege2g532gke5dbl",
+    "user_id": 3
+  },
+  {
+    "id": 15,
+    "session_id": "24kk35524es5ggj5",
+    "user_id": 5
+  },
+  {
+    "id": 16,
+    "session_id": "blj2klkd2kelgg5j",
+    "user_id": 3
+  },
+  {
+    "id": 17,
+    "session_id": "jje3232kk5k22kg3",
+    "user_id": 3
+  },
+  {
+    "id": 18,
+    "session_id": "ll22542jbjj54ljr",
+    "user_id": 1
+  }
+]

@@ -12,6 +12,6 @@ sudo service supervisor restart
 
 
 # service supervisor status
-# ls /var/log/supervisor/supervisord.log
+# ls /var/log/supervisor
 
 sudo echo 'deploy success'
