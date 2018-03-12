@@ -27,7 +27,7 @@ def route_static(request):
 
 def route_dict():
     r = {
-        '/': route_index,
+        '/index': route_index,
         '/static': route_static,
     }
     return r

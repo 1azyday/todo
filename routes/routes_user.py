@@ -29,7 +29,7 @@ def route_login(request):
                 'Set-Cookie': 'sid={}'.format(session_id)
             }
             # 登录后定向到 /
-            return redirect('/', headers)
+            return redirect('/index', headers)
     # 显示登录页面
     body = template('login.html')
     return http_response(body)
