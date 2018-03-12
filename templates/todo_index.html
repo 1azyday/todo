@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>ajax_todo</title>
+        <link rel="stylesheet" href="https://cdn.bootcss.com/pure/1.0.0/pure-min.css" >
+        <link rel="stylesheet" href='/static?file=base.css'>		
+    </head>
+    <body>
+		<div class='header pure-form'>
+			<h1>TODO_LIST</h1>
+			<input id='id-input-todo'>
+			<button id='id-button-add' class="pure-button pure-button-primary">新增事项</button>
+
+		</div>
+		<div class='content'>
+
+			<div>
+				<div class="todo-list" >
+				</div>
+			</div>
+		</div>
+        <!-- base.js 放了基本函数 -->
+        <!-- 按顺序引入 2 个 js 文件, 后面的 js 文件才可以使用前面的文件中的函数 -->
+        <script src='../static?file=base.js'></script>
+        <script src='../static?file=todo.js'></script>
+    </body>
+</html>
