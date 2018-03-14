@@ -6,7 +6,11 @@
 	<link rel="stylesheet" href="https://cdn.bootcss.com/pure/1.0.0/pure-min.css" >
 </head>
 <body>
+	{% if user == None %}
+	<h1>Hello,Visitor!</h1>
+	{% else %}
     <h1>Hello,{{user.username}}</h1>
+	{% endif %}
     <img src="/static?file=doge.gif"/>
     <img src="/static?file=doge1.jpg"/>
     <img src="/static?file=doge2.gif"/>

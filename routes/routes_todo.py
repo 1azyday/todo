@@ -20,6 +20,6 @@ def index(request):
 
 def route_dict():
     d = {
-        '/todo/index': login_required(index),
+        '/todo/index': index,
     }
     return d
